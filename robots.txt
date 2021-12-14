@@ -1,0 +1,3 @@
+User-agent: *
+
+https://elliot.wales/sitemap.xml
