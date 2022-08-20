@@ -4,7 +4,8 @@ title: Elliot Williams
 
 Hello! My name is Elliot, I'm a backend software engineer working remotely from my home in Carmarthenshire, South Wales.
 
-You can find me on:
+I'm @elliotwms on:
+* [Twitter](https://twitter.com/elliotwms)
 * [GitHub](https://github.com/elliotwms)
 * [LinkedIn](https://www.linkedin.com/in/elliotwms/)
 
