@@ -1,3 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
 [submodule "themes/accessible-minimalism"]
 	path = themes/accessible-minimalism
 	url = https://github.com/leonstafford/accessible-minimalism-hugo-theme

@@ -1,0 +1,45 @@
+baseURL = "https://elliot.wales"
+title = "Elliot Williams"
+theme = "etch"
+languageCode = "en-GB"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+description = "Computer Person"
+dark = "auto"
+highlight = true
+
+[menu]
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+title = "posts"
+url = "/posts/"
+weight = 10
+
+#[[menu.main]]
+#identifier = "talks"
+#name = "talks"
+#title = "talks"
+#url = "/talks/"
+#weight = 20
+
+[[menu.main]]
+identifier = "projects"
+name = "projects"
+title = "projects"
+url = "/projects/"
+weight = 30
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+title = "about"
+url = "/about/"
+weight = 40
+
+[markup.goldmark.renderer]
+# Allows HTML in Markdown
+unsafe = true
