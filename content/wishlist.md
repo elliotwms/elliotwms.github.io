@@ -1,6 +1,5 @@
 ---
 title: "Wishlist"
-date: 2024-12-11T16:18:30Z
 ---
 
 Thank you ❤️
