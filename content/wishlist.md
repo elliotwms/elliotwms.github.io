@@ -12,6 +12,7 @@ Thank you ❤️
 * Philips OneBlade Pro - ~£60
 * [Here](https://www.amazon.co.uk/dp/0241755700/?coliid=IPX70JBO6D1JJ&colid=2F934XI58B616&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im) - £22 
 * [Slugblaster](https://www.myth.works/en-gb/pages/slugblaster) - £32/£64
+* [26" Musical Saw](https://www.flinn-garlick-saws.co.uk/product/roberts-lee-parkstone-musical-saw-kit/) - ~£150
 
 ### Vinyl
 
