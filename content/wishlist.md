@@ -14,6 +14,7 @@ Thank you ❤️
 * [Slugblaster](https://www.myth.works/en-gb/pages/slugblaster) - £32/£64
 * [26" Musical Saw](https://www.flinn-garlick-saws.co.uk/product/roberts-lee-parkstone-musical-saw-kit/) - ~£150
 * Aura frame - [£149](https://auraframes.co.uk/digital-frames/color/carver-mat) (use code ATP)/[£269](https://auraframes.co.uk/digital-frames/color/walden-ink-mat)
+* [Teenage Engineering EP-1320](https://teenage.engineering/products/ep-1320) - ~£260 elsewhere
 
 ### Vinyl
 
