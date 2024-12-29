@@ -9,7 +9,7 @@ Thank you ❤️
 * [Playdate](https://play.date) - $199
 * [Flight stick (SCG Premium Right)](https://flightsimcontrols.co.uk/product/gladiator-nxt-evo-space-combat-edition/) - £199 (currently unavailable)
 * [Flight stick (Premium Left)](https://flightsimcontrols.co.uk/product/gladiator-nxt-evo-omni-throttle/) - £210 (currently unavailable)
-* ~~Philips OneBlade Pro - ~£60~~
+* ~~Philips OneBlade Pro - £60~~
 * [26" Musical Saw](https://www.flinn-garlick-saws.co.uk/product/roberts-lee-parkstone-musical-saw-kit/) - ~£150
 * Aura frame - [£149](https://auraframes.co.uk/digital-frames/color/carver-mat) (use code ATP)/[£269](https://auraframes.co.uk/digital-frames/color/walden-ink-mat)
 * [Teenage Engineering EP-1320](https://teenage.engineering/products/ep-1320) - ~£260 elsewhere
