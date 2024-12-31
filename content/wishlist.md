@@ -25,6 +25,7 @@ Thank you ❤️
 
 My [Discogs wantlist](https://www.discogs.com/wantlist?user=elliotwms) _should_ be up to date (but no guarantees! 😅), otherwise the following would be great: 
 
+* [A Short Hike soundtrack](https://marksparling.bandcamp.com/album/a-short-hike-original-soundtrack)
 * ~~[Kentucky Route Zero soundtrack](https://www.juno.co.uk/products/ben-babbitt-kentucky-route-zero-soundtrack-vinyl/1030274-01/)~~
 * ~~Minecraft volume [alpha](https://www.discogs.com/master/801496-C418-Minecraft-Volume-Alpha?) and [beta](https://www.discogs.com/master/955222-C418-Minecraft-Volume-Beta)~~
 
