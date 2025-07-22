@@ -2,7 +2,7 @@ Hi! 👋
 
 My name is Elliot, I'm born and raised in sunny South Wales, and I've spent most of my adult life training and working as a backend software engineer. I'm currently mainly working in Go.  
 
-I work remotely from a home in Carmarthenshire I share with my partner, our two cats (Martin and Kestrel) and a leopard gecko named Onion.
+I work remotely from my home in Cardiff, with (sadly) zero pets and (perhaps even more sadly) a robot vacuum named Stuart.
 
 My hobbies include computer games, boardgames, good food, great TV and modular synthesis (currently for my ears only - consider yourself spared).
 
