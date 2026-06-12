@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2023-08-28T22:30:02+01:00
-draft: false
+draft: true
 ---
 
 This website has recently been redone, after being neglected for _quite some time_. I'm still getting to grips with [Hugo](https://gohugo.io), which this site is built on, so it's not all set up quite how I'd like it just yet.
