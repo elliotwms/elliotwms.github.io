@@ -14,4 +14,11 @@
     </header>
     {{- .Content -}}
 </article>
+{{- if eq .Type "posts" }}
+<aside id="post-subscribe">
+    <hr>
+    <h3>Subscribe by email</h3>
+    {{ partial "subscribe.html" . }}
+</aside>
+{{- end }}
 {{ end }}
