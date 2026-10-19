@@ -1,3 +1,7 @@
+---
+title: "About"
+---
+
 Hi! 👋
 
 My name is Elliot, I'm born and raised in sunny South Wales, and I've spent most of my adult life training and working as a backend software engineer. I'm currently mainly working in Go.  
@@ -11,7 +15,7 @@ I'm also an occasional [speaker](/talks) and fair-weather [open-source contribut
 ### Contact
 
 You can find me around the web on:
-* [BlueSky]()
+* [BlueSky](https://bsky.app/profile/elliot.wales)
 * [Twitter](https://twitter.com/elliotwms)
 * [GitHub](https://github.com/elliotwms)
 * [LinkedIn](https://www.linkedin.com/in/elliotwms/)

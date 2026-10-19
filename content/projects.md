@@ -1,3 +1,7 @@
+---
+title: "Projects"
+---
+
 You can get a glimpse of what I'm working on in my free time over on [GitHub](https://github.com/elliotwms). Here are some hand-picked recent(ish) ones:
 
 ### [fakediscord](https://github.com/elliotwms/fakediscord)
