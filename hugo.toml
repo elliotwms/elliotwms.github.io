@@ -10,6 +10,8 @@ mainSections = ["posts"]
 description = "Computer Person"
 dark = "auto"
 highlight = true
+# Buttondown username, used by the subscribe form
+buttondown = "elliotwms"
 
 [menu]
 [[menu.main]]
@@ -39,6 +41,13 @@ name = "about"
 title = "about"
 url = "/about/"
 weight = 40
+
+[[menu.main]]
+identifier = "subscribe"
+name = "subscribe"
+title = "subscribe"
+url = "/subscribe/"
+weight = 50
 
 [markup.goldmark.renderer]
 # Allows HTML in Markdown

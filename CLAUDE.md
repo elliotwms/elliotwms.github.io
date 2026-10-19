@@ -13,6 +13,7 @@ Personal site for Elliot Williams, served at https://elliot.wales via GitHub Pag
 - `content/_index.md` homepage intro; `content/posts/` blog posts (the only main section, so they're listed on the homepage and in the RSS feed); `content/talks/` talks; `about.md`, `projects.md`, `wishlist.md` standalone pages.
 - `layouts/_default/baseof.html` page skeleton; `layouts/partials/head.html` meta, CSS bundle, Open Graph/Twitter cards and `<title>` (`Page · Site`, site title alone on the homepage).
 - `layouts/partials/goatcounter.html` GoatCounter analytics, only rendered when `hugo.IsProduction`.
+- `layouts/partials/subscribe.html` Buttondown signup form (username in `params.buttondown`). Checkboxes apply the `posts` and `newsletter` tags. Shown at the end of every post (`single.html`) and on `content/subscribe.md` via the `{{< subscribe >}}` shortcode. New-post emails come from Buttondown's RSS-to-email reading `/posts/index.xml`, so keep that feed's URL stable.
 - `layouts/_default/list.html` generic list for sections and taxonomies; `layouts/index.html` homepage.
 - `hugo.toml` site config and the main menu. `markup.goldmark.renderer.unsafe = true`, so raw HTML in Markdown is allowed.
 

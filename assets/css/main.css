@@ -280,3 +280,62 @@ footer#footer {
     color: #b3b3b3;
     margin: 40px 0;
 }
+
+/* subscribe form */
+main#content form.subscribe {
+    margin: 16px 0;
+}
+
+main#content form.subscribe fieldset {
+    border: 0;
+    margin: 0 0 12px;
+    padding: 0;
+}
+
+main#content form.subscribe legend {
+    padding: 0;
+    margin-bottom: 4px;
+}
+
+main#content form.subscribe fieldset label {
+    display: block;
+}
+
+main#content form.subscribe .subscribe-email label {
+    display: block;
+    font-size: 0.9em;
+    color: #767676;
+    margin-bottom: 4px;
+}
+
+main#content form.subscribe input[type="email"],
+main#content form.subscribe button {
+    font: inherit;
+    padding: 6px 10px;
+    border-radius: 4px;
+}
+
+main#content form.subscribe input[type="email"] {
+    width: 100%;
+    max-width: 320px;
+    border: 1px solid #c4c4c4;
+    color: inherit;
+    background: transparent;
+}
+
+main#content form.subscribe button {
+    border: 1px solid #007dfa;
+    background: #007dfa;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 8px;
+}
+
+main#content form.subscribe button:hover {
+    background: #369aff;
+    border-color: #369aff;
+}
+
+main#content aside#post-subscribe {
+    margin-top: 40px;
+}

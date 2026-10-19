@@ -48,6 +48,14 @@ main#content ul#posts li a:hover {
 main#content header#post-header div {
     color: #a7a7a7;
 }
+
+main#content form.subscribe .subscribe-email label {
+    color: #a7a7a7;
+}
+
+main#content form.subscribe input[type="email"] {
+    border-color: #5c5c5c;
+}
 {{- if not (eq .Site.Params.dark "on") -}}
 }
 {{- end -}}

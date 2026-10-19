@@ -1,0 +1,13 @@
+<form class="subscribe" action="https://buttondown.com/api/emails/embed-subscribe/{{ site.Params.buttondown }}" method="post">
+    <fieldset>
+        <legend>Send me:</legend>
+        <label><input type="checkbox" name="tag" value="posts" checked> An email when there's a new post</label>
+        <label><input type="checkbox" name="tag" value="newsletter" checked> An infrequent, curated newsletter</label>
+    </fieldset>
+    <div class="subscribe-email">
+        <label for="subscribe-email">Email address</label>
+        <input type="email" name="email" id="subscribe-email" placeholder="you@example.com" autocomplete="email" required>
+        <button type="submit">Subscribe</button>
+    </div>
+    <input type="hidden" name="embed" value="1">
+</form>
