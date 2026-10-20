@@ -281,6 +281,16 @@ footer#footer {
     margin: 40px 0;
 }
 
+footer#footer a {
+    color: inherit;
+}
+
+main#content form.subscribe .subscribe-note {
+    font-size: 0.9em;
+    color: #767676;
+    margin: 8px 0 0;
+}
+
 /* subscribe form */
 main#content form.subscribe {
     margin: 16px 0;

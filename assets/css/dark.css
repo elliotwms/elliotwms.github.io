@@ -49,7 +49,8 @@ main#content header#post-header div {
     color: #a7a7a7;
 }
 
-main#content form.subscribe .subscribe-email label {
+main#content form.subscribe .subscribe-email label,
+main#content form.subscribe .subscribe-note {
     color: #a7a7a7;
 }
 
