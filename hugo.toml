@@ -52,3 +52,7 @@ weight = 50
 [markup.goldmark.renderer]
 # Allows HTML in Markdown
 unsafe = true
+
+# Embed YouTube videos from youtube-nocookie.com
+[privacy.youtube]
+privacyEnhanced = true
