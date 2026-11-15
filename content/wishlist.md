@@ -22,6 +22,8 @@ Elliot
 * GeekUp bags for Root from the BGG store
   * [Root](https://boardgamegeekstore.com/products/drawstring-bags-for-use-with-root) - $14
   * [Underworld Expansion](https://boardgamegeekstore.com/products/geekup-bag-set-root-underworld-expansion) - $7
+  * [Marauders Expansion](https://boardgamegeekstore.com/products/geekup-bag-set-root-marauders-expansion) - $6
+  * [Homeland Expansion](https://boardgamegeekstore.com/products/geekup-bag-set-root-homeland-expansion) - $9
 
 ### Books & Magazines
 * A subscription to [Senet magazine](https://senetmagazine.com)
@@ -30,7 +32,7 @@ Elliot
   * [The Player of Games](https://www.foliosociety.com/uk/the-player-of-games.html) - £100
 
 ### Records
-* [Disco Elysium 3xLP vinyl soundtrack](https://www.iam8bit.com/products/disco-elysium-3xlp-vinyl-soundtrack) - ~$60
+* [Disco Elysium 3xLP vinyl soundtrack](https://www.iam8bit.com/products/disco-elysium-3xlp-vinyl-soundtrack) - $59.99
 * Or you can always get me a record you love (and tell me what you love about it) or think I'll love.
 
 ### Wishlists
