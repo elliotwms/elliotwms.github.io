@@ -14,16 +14,16 @@ Lots of love
 Elliot
 
 ### Things
-* Theremin
-  * Moog Theremini ([~£340 on Amazon](https://amzn.eu/d/2GajYHW)),
-  * or the Etherwave if you can find one somewhere (there's [a listing on Reverb](https://reverb.com/uk/p/moog-etherwave-standard-theremin?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=csp&utm_content=2492) for £525! 😬)
-* [Playdate](https://play.date) - $199
-* Aura frame - [£149](https://auraframes.co.uk/digital-frames/color/carver-mat)/[£269](https://auraframes.co.uk/digital-frames/color/walden-ink-mat)
 * GeekUp bags for Root from the BGG store
   * [Root](https://boardgamegeekstore.com/products/drawstring-bags-for-use-with-root) - $14
   * [Underworld Expansion](https://boardgamegeekstore.com/products/geekup-bag-set-root-underworld-expansion) - $7
   * [Marauders Expansion](https://boardgamegeekstore.com/products/geekup-bag-set-root-marauders-expansion) - $6
   * [Homeland Expansion](https://boardgamegeekstore.com/products/geekup-bag-set-root-homeland-expansion) - $9
+* Theremin
+  * Moog Theremini ([~£340 on Amazon](https://amzn.eu/d/2GajYHW)),
+  * or the Etherwave if you can find one somewhere (there's [a listing on Reverb](https://reverb.com/uk/p/moog-etherwave-standard-theremin?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=csp&utm_content=2492) for £525! 😬)
+* [Playdate](https://play.date) - $199
+* Aura frame - [£149](https://auraframes.co.uk/digital-frames/color/carver-mat)/[£269](https://auraframes.co.uk/digital-frames/color/walden-ink-mat)
 
 ### Books & Magazines
 * A subscription to [Senet magazine](https://senetmagazine.com)
