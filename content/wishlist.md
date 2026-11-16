@@ -24,7 +24,7 @@ Elliot
   * or the Etherwave if you can find one somewhere (there's [a listing on Reverb](https://reverb.com/uk/p/moog-etherwave-standard-theremin?utm_source=rev-ios-app&utm_medium=ios-share&utm_campaign=csp&utm_content=2492) for £525! 😬)
 * [Playdate](https://play.date) - $199
 * [Ecowitt Wittboy weather station (GW2001)](https://shop.ecowitt.com/en-gb/products/wittboy-gw2001?variant=50818104000674) - ~£200 (make sure it's the 868MHz UK version or they'll put me in jail)
-* Aura frame - [£149](https://auraframes.co.uk/digital-frames/color/carver-mat)/[£269](https://auraframes.co.uk/digital-frames/color/walden-ink-mat)
+* [TRMNL X](https://shop.trmnl.com/collections/devices/products/trmnl-x?variant=51682232009009) e-ink display - £177
 
 ### Books & Magazines
 * A subscription to [Senet magazine](https://senetmagazine.com)
