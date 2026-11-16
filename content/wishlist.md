@@ -25,6 +25,7 @@ Elliot
 * [Playdate](https://play.date) - $199
 * [Ecowitt Wittboy weather station (GW2001)](https://shop.ecowitt.com/en-gb/products/wittboy-gw2001?variant=50818104000674) - ~£200 (make sure it's the 868MHz UK version or they'll put me in jail)
 * Aura frame - [£149](https://auraframes.co.uk/digital-frames/color/carver-mat)/[£269](https://auraframes.co.uk/digital-frames/color/walden-ink-mat)
+* [TRMNL X](https://shop.trmnl.com/collections/devices/products/trmnl-x?variant=51682232009009) e-ink display
 
 ### Books & Magazines
 * A subscription to [Senet magazine](https://senetmagazine.com)
