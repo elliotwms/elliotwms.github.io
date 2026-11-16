@@ -38,4 +38,5 @@ Elliot
 
 ### Wishlists
 * For games check out my [Steam wishlist](https://store.steampowered.com/wishlist/id/elliotwms/), or a [voucher](https://store.steampowered.com/digitalgiftcards/) would be great!
+* Diana and I are regulars at the [Everyman](https://www.everymancinema.com) in Cardiff Bay, so a [gift card](https://gifts.everymancinema.com/) would always get used. I'm already a member, and gift cards work alongside it for tickets, food and drink 🍿
 * For bits and bobs there's [Amazon](https://www.amazon.co.uk/hz/wishlist/ls/2F934XI58B616?ref_=wl_share)
