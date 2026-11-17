@@ -25,6 +25,8 @@ Elliot
 * [Playdate](https://play.date) - $199
 * [Ecowitt Wittboy weather station (GW2001)](https://shop.ecowitt.com/en-gb/products/wittboy-gw2001?variant=50818104000674) - ~£200 (make sure it's the 868MHz UK version or they'll put me in jail)
 * [TRMNL X](https://shop.trmnl.com/collections/devices/products/trmnl-x?variant=51682232009009) e-ink display - £177
+* [Xteink X3](https://www.xteink.com/products/xteink-x3) magnetic e-reader - $79
+* [Brompton Cafe Lock](https://www.brompton.com/p/1783/cafe-lock?Colour=Black) in black - £75
 
 ### Books & Magazines
 * A subscription to [Senet magazine](https://senetmagazine.com)
