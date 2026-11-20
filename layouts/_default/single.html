@@ -10,6 +10,9 @@
                 <time>{{ .Lastmod | time.Format (i18n "post.updated") }}</time>
             {{ end }}
         {{- end -}}
+        {{- if and .Params.showLastUpdated .GitInfo -}}
+            <time datetime="{{ .GitInfo.AuthorDate.Format "2006-01-02" }}">Last updated {{ .GitInfo.AuthorDate | time.Format "2 January 2006" }}</time>
+        {{- end -}}
         </div>
     </header>
     {{- .Content -}}

@@ -2,6 +2,8 @@ baseURL = "https://elliot.wales"
 title = "Elliot Williams"
 locale = "en-GB"
 enableInlineShortcodes = true
+# Exposes .GitInfo for pages with showLastUpdated (needs full history, see fetch-depth in CI)
+enableGitInfo = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -48,6 +50,14 @@ name = "subscribe"
 title = "subscribe"
 url = "/subscribe/"
 weight = 50
+
+# Where Hugo gets each page's "last modified" date (.Lastmod), first match wins.
+# Hugo's default puts the git commit date (":git") first once enableGitInfo is on,
+# which would make posts show "Updated <date>" after any later commit (typo fixes,
+# reformatting). Leaving ":git" out keeps posts using the dates in their front matter;
+# the wishlist reads its git date directly via .GitInfo instead.
+[frontmatter]
+lastmod = ["lastmod", "modified", "date", "publishDate"]
 
 [markup.goldmark.renderer]
 # Allows HTML in Markdown

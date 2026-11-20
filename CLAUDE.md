@@ -24,6 +24,7 @@ Personal site for Elliot Williams, served at https://elliot.wales via GitHub Pag
 - Every page needs a `title` in front matter; it feeds the `<title>`, the page `<h1>`, and list entries.
 - Posts and talks need a `date`. New content starts as `draft: true` (see `archetypes/default.md`).
 - Embed videos with the built-in `{{< youtube ID >}}` shortcode.
+- `showLastUpdated: true` in front matter shows "Last updated <date>" under the title, taken from the page's last git commit (`enableGitInfo`; CI checks out with `fetch-depth: 0` for this). `Lastmod` itself still comes from front matter only, so posts aren't marked as updated by unrelated commits.
 
 ## Checking a change
 
