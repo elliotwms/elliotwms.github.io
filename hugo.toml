@@ -51,7 +51,11 @@ title = "subscribe"
 url = "/subscribe/"
 weight = 50
 
-# Keep Lastmod from front matter only, so enabling GitInfo doesn't mark posts as updated
+# Where Hugo gets each page's "last modified" date (.Lastmod), first match wins.
+# Hugo's default puts the git commit date (":git") first once enableGitInfo is on,
+# which would make posts show "Updated <date>" after any later commit (typo fixes,
+# reformatting). Leaving ":git" out keeps posts using the dates in their front matter;
+# the wishlist reads its git date directly via .GitInfo instead.
 [frontmatter]
 lastmod = ["lastmod", "modified", "date", "publishDate"]
 
