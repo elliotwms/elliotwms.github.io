@@ -2,6 +2,8 @@ baseURL = "https://elliot.wales"
 title = "Elliot Williams"
 locale = "en-GB"
 enableInlineShortcodes = true
+# Exposes .GitInfo for pages with showLastUpdated (needs full history, see fetch-depth in CI)
+enableGitInfo = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -48,6 +50,10 @@ name = "subscribe"
 title = "subscribe"
 url = "/subscribe/"
 weight = 50
+
+# Keep Lastmod from front matter only, so enabling GitInfo doesn't mark posts as updated
+[frontmatter]
+lastmod = ["lastmod", "modified", "date", "publishDate"]
 
 [markup.goldmark.renderer]
 # Allows HTML in Markdown
