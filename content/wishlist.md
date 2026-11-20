@@ -27,6 +27,7 @@ Elliot
 * [TRMNL X](https://shop.trmnl.com/collections/devices/products/trmnl-x?variant=51682232009009) e-ink display - £177
 * [Xteink X3](https://www.xteink.com/products/xteink-x3) magnetic e-reader - $79
 * [Brompton Cafe Lock](https://www.brompton.com/p/1783/cafe-lock?Colour=Black) in black - £75
+* [Moon Colony Bloodbath](https://travellingman.com/products/moon-colony-bloodbath) board game - ~£40
 
 ### Books & Magazines
 * A subscription to [Senet magazine](https://senetmagazine.com)
